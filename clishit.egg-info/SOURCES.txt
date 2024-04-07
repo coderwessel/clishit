@@ -1,0 +1,9 @@
+setup.py
+clishit/__init__.py
+clishit/namecall2.py
+clishit.egg-info/PKG-INFO
+clishit.egg-info/SOURCES.txt
+clishit.egg-info/dependency_links.txt
+clishit.egg-info/entry_points.txt
+clishit.egg-info/requires.txt
+clishit.egg-info/top_level.txt
