@@ -1,2 +1,0 @@
-[console_scripts]
-namecall2 = clishit.namecall2:hello
